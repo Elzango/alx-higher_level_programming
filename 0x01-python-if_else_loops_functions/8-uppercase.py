@@ -1,3 +1,7 @@
+#!/usr/bin/python3
+# 8-uppercase.py
+# Mahmud Zango
+
 def uppercase(str):
     """Print a string in uppercase."""
     for c in str:
